@@ -1,5 +1,5 @@
-def say_hello(name="World"):
-    return f"Hello, {name}!"
+def say_hello():
+    return "Hello, World!"
 
 def main():
     print(say_hello())
